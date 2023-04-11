@@ -1,0 +1,6 @@
+.DS_store
+.history
+out
+*.iml
+.idea
+*.pdf
